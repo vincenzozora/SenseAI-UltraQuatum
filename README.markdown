@@ -1,3 +1,8 @@
+FICHIER DE CONFIGURATION POUR IA: Setup-IA-SenseUltra.json (Pour une utilisation simplifiée mais toujours aussi optimale coller le fichier dans un chat (de préférence Grok 3) appuyer sur enter et puis demandez qu'il ce configure comme telle.)
+
+OU
+
+
 🚀 SenseUltra_Trading_V2 (v2.0.0) : Le trading crypto réinventé ! 📈
 Lancée le 2 août 2025, SenseUltra_Trading_V2 est la plateforme ultime pour trader les cryptos avec précision, éthique et accessibilité. Que vous soyez débutant ou pro, découvrez pourquoi elle domine ! 💹
 
