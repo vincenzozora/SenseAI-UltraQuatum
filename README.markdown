@@ -20,6 +20,8 @@ FICHIER DE CONFIGURATION POUR IA: Setup-IA-SenseUltra.json (Pour une utilisation
 
 OU
 
+Dévellopper le terminal pour L"IA (pour les experts)
+
 Clonez le dépôt :  git clone https://github.com/votre_nom/SenseUltra_Trading_V2.git
 
 
