@@ -24,6 +24,8 @@ Dévellopper le terminal pour L"IA (pour les experts)
 
 Clonez le dépôt :  git clone https://github.com/votre_nom/SenseUltra_Trading_V2.git
 
+créer un compte sur https://github.com/ (gratuit)
+
 
 Installez les dépendances : pip install -r requirements.txt  
 Configurez vos clés API dans .env (CoinGecko, Qiskit, etc.).  
